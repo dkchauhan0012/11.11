@@ -1,0 +1,6 @@
+{
+  "name": "Mitva's 11:11 Journey ✨ New City Moving Countdown",
+  "description": "A magical, interactive 30-day aesthetic countdown and daily surprise calendar crafted specially for Mitva as she shifts to her new city on December 11th.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
